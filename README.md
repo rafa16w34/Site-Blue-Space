@@ -1,3 +1,6 @@
-# Site Blue Space Studios (Beta)
+# Site Blue Space Studios 🪐
+## Sobre:
+Um site, ainda em desenvolvimento, para o estúdio de jogos Blue Space. Onde é possíver buscar os jogos, ler um pouco sobre detalhes de cada um e ser redirecionado para a página onde estão publicados.
 
-Um site, ainda em desenvolvimento, para o meu estúdio de jogos.
+## Futuras implementações:
+- Adicionar mais jogos para pesquisa;
